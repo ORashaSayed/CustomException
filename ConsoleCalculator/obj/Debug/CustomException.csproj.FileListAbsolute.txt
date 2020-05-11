@@ -1,0 +1,7 @@
+C:\Users\rasha.sayed\Downloads\c-sharp-error-handling-exceptions\06\demos\after\03UsingExceptions\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+C:\Users\rasha.sayed\Downloads\c-sharp-error-handling-exceptions\06\demos\after\03UsingExceptions\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+C:\Users\rasha.sayed\Downloads\c-sharp-error-handling-exceptions\06\demos\after\03UsingExceptions\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+C:\Users\rasha.sayed\Downloads\c-sharp-error-handling-exceptions\06\demos\after\03UsingExceptions\ConsoleCalculator\obj\Debug\CustomException.csprojAssemblyReference.cache
+C:\Users\rasha.sayed\Downloads\c-sharp-error-handling-exceptions\06\demos\after\03UsingExceptions\ConsoleCalculator\obj\Debug\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\rasha.sayed\Downloads\c-sharp-error-handling-exceptions\06\demos\after\03UsingExceptions\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+C:\Users\rasha.sayed\Downloads\c-sharp-error-handling-exceptions\06\demos\after\03UsingExceptions\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb
